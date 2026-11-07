@@ -1,0 +1,11 @@
+{
+  "name": "zakat-ts-stocks-sukuk-purify",
+  "version": "1.0.0",
+  "description": "AAOIFI Equity Portfolio Zakat & Non-Compliant Income Purification (حاسبة زكاة الأسهم والصناديق الاستثمارية وتطهير الأرباح)",
+  "main": "main.ts",
+  "scripts": {
+    "start": "npx ts-node main.ts"
+  },
+  "author": "Mahmoud ElNemer",
+  "license": "MIT"
+}
